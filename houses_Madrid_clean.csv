@@ -1,4 +1,4 @@
-id,m2_construit,nb_pieces,nb_sdb,nb_etages,latitude,longitude,prix_achat,prix_achat_m2,travaux_necessaires,annee_construction,ascensseur,jardin,piscine,terrasse,balcon,salle_rangement,espace_vert,parking,num_quartier,type_appartement,type_duplex,type_maison,type_penthouse
+,m2_construit,nb_pieces,nb_sdb,nb_etages,latitude,longitude,prix_achat,prix_achat_m2,travaux_necessaires,annee_construction,ascenseur,jardin,piscine,terrasse,balcon,salle_rangement,espace_vert,parking,num_quartier,type_appartement,type_duplex,type_maison,type_penthouse
 21742,64,2,1,0,40.473318,-3.579845,85000,1328,False,1960.0,True,False,False,False,False,False,False,False,21,True,False,False,False
 21741,70,3,1,0,40.473318,-3.579845,129900,1856,True,2077.0,True,False,False,True,False,False,False,False,21,True,False,False,False
 21740,94,2,2,0,40.473318,-3.579845,144247,1535,False,2077.0,True,False,False,False,False,True,False,False,21,True,False,False,False
